@@ -1,0 +1,46 @@
+/* style tweaks */
+
+body {
+  padding-top: 70px;
+}
+
+
+h1 {
+	text-align: center;
+
+}
+
+h5 {
+	text-align: left;
+	margin-left: 15px;
+	margin-top: -60px;
+}
+
+/* error message*/
+h6 {
+	margin-left: 224px;
+	margin-bottom: -100px;
+
+}
+
+.form-horizontal {
+	width:90%;
+}
+
+
+
+.table-bordered {
+	width: 60%;
+	margin-left: 280px;
+
+}
+
+#info {
+	text-align: center;
+}
+
+.btn-group {
+	margin-left: 580px;
+}
+
+
